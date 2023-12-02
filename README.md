@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ujjwal Singh</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
-<img src="https://media.istockphoto.com/id/1413922045/vector/programming-at-home.jpg?s=612x612&w=0&k=20&c=_5UhZu0-etj-lWZorNUAkF_PEqXfHpuf44dCeWeCOvc=" align="right" alt="Coding" width="400" >
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3k5tT01Tisjq2N1OS45pbnYkdBbrUv9nvIQ&usqp=CAU" align="right" alt="Coding" width="400" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwals24&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwals24" /> </p>
 
