@@ -1,4 +1,4 @@
-[![MasterHead](https://multiqos.com/blogs/wp-content/uploads/2021/11/What-is-MERN-Stack.png)]
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUtgED4-TZ2OjF-hSVGPKDkrW2AeMuF72YNA&usqp=CAU)
 
 <h1 align="center">Hi 👋, I'm Ujjwal Singh</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
