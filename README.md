@@ -1,4 +1,4 @@
-![MasterHead](https://c8.alamy.com/comp/W3XFX2/full-stack-developer-with-digital-java-code-text-full-stack-developer-and-computer-software-coding-vector-concept-programming-coding-script-java-di-W3XFX2.jpg)
+![MasterHead](https://inzint.com/wp-content/uploads/2023/02/Features-of-Mern-stack-development-services-You-Should-Know-1.png)
 
 <h1 align="center">Hi 👋, I'm Ujjwal Singh</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
